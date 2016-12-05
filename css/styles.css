@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Reem+Kufi");
 .wrapper:after,
 .row:after {
   *zoom: 1; }
@@ -21,6 +22,9 @@ img {
   max-width: 100%;
   height: auto !important; }
 
+span {
+  font-family: 'Reem Kufi', sans-serif; }
+
 .one {
   background: #094D92;
   display: block;
@@ -35,6 +39,24 @@ img {
 
 .oneHue2 {
   background: #3a71a8;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.oneMix {
+  background: #6774a7;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.oneMix2 {
+  background: #3645be;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.oneMix3 {
+  background: #0f6659;
   display: block;
   padding: 1em 0;
   text-align: center; }
@@ -57,6 +79,24 @@ img {
   padding: 1em 0;
   text-align: center; }
 
+.twoMix {
+  background: #8e789e;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.twoMix2 {
+  background: #5d48b6;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.twoMix3 {
+  background: #376a50;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
 .three {
   background: #C49BBB;
   display: block;
@@ -75,6 +115,24 @@ img {
   padding: 1em 0;
   text-align: center; }
 
+.threeMix {
+  background: #936cd3;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.threeMix2 {
+  background: #6774a7;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.threeMix3 {
+  background: #6d8d6d;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
 .four {
   background: #D1BCE3;
   display: block;
@@ -89,6 +147,24 @@ img {
 
 .fourHue2 {
   background: #dac9e9;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.fourMix {
+  background: #cbaccf;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.fourMix2 {
+  background: #6d85bb;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.fourMix3 {
+  background: #739e81;
   display: block;
   padding: 1em 0;
   text-align: center; }

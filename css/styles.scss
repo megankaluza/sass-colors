@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Reem+Kufi');
+
 @import 'base/index';
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
@@ -10,6 +12,10 @@ img {
   width: auto;
   max-width: 100%;
   height: auto !important;
+}
+
+span {
+  font-family: 'Reem Kufi', sans-serif;
 }
 
 .one {
@@ -28,6 +34,27 @@ img {
 
 .oneHue2 {
   background: hue($yaleblue, 20%);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.oneMix {
+  background: mix($yaleblue, $pastelviolet);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.oneMix2 {
+  background: mix($yaleblue, $majorelleblue);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.oneMix3 {
+  background: mix($yaleblue, $forestgreen);
   display: block;
   padding: 1em 0;
   text-align: center;
@@ -54,6 +81,27 @@ img {
   text-align: center;
 }
 
+.twoMix {
+  background: mix($purplenavy, $pastelviolet);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.twoMix2 {
+  background: mix($purplenavy, $majorelleblue);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.twoMix3 {
+  background: mix($purplenavy, $forestgreen);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
 .three {
   background: $pastelviolet;
   display: block;
@@ -75,6 +123,27 @@ img {
   text-align: center;
 }
 
+.threeMix {
+  background: mix($pastelviolet, $majorelleblue);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.threeMix2 {
+  background: mix($pastelviolet, $yaleblue);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.threeMix3 {
+  background: mix($pastelviolet, $forestgreen);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
 .four {
   background: $thistle;
   display: block;
@@ -91,6 +160,27 @@ img {
 
 .fourHue2 {
   background: hue($thistle, 20%);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.fourMix {
+  background: mix($thistle, $pastelviolet);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.fourMix2 {
+  background: mix($thistle, $yaleblue);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.fourMix3 {
+  background: mix($thistle, $forestgreen);
   display: block;
   padding: 1em 0;
   text-align: center;
