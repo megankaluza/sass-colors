@@ -28,7 +28,13 @@ img {
   text-align: center; }
 
 .oneHue {
-  background: #0A5FB5;
+  background: #225f9d;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.oneHue2 {
+  background: #3a71a8;
   display: block;
   padding: 1em 0;
   text-align: center; }
@@ -39,14 +45,50 @@ img {
   padding: 1em 0;
   text-align: center; }
 
+.twoHue {
+  background: #69658e;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.twoHue2 {
+  background: #79769a;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
 .three {
   background: #C49BBB;
   display: block;
   padding: 1em 0;
   text-align: center; }
 
+.threeHue {
+  background: #caa5c2;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.threeHue2 {
+  background: #d0afc9;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
 .four {
   background: #D1BCE3;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.fourHue {
+  background: #d6c3e6;
+  display: block;
+  padding: 1em 0;
+  text-align: center; }
+
+.fourHue2 {
+  background: #dac9e9;
   display: block;
   padding: 1em 0;
   text-align: center; }

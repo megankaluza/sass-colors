@@ -20,7 +20,14 @@ img {
 }
 
 .oneHue {
-  background: $green-blue;
+  background: hue($yaleblue, 10%);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.oneHue2 {
+  background: hue($yaleblue, 20%);
   display: block;
   padding: 1em 0;
   text-align: center;
@@ -33,6 +40,20 @@ img {
   text-align: center;
 }
 
+.twoHue {
+  background: hue($purplenavy, 10%);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.twoHue2 {
+  background: hue($purplenavy, 20%);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
 .three {
   background: $pastelviolet;
   display: block;
@@ -40,8 +61,36 @@ img {
   text-align: center;
 }
 
+.threeHue {
+  background: hue($pastelviolet, 10%);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.threeHue2 {
+  background: hue($pastelviolet, 20%);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
 .four {
   background: $thistle;
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.fourHue {
+  background: hue($thistle, 10%);
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.fourHue2 {
+  background: hue($thistle, 20%);
   display: block;
   padding: 1em 0;
   text-align: center;
