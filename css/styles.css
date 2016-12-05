@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Reem+Kufi");
+@import url("https://fonts.googleapis.com/css?family=Cinzel|Luckiest+Guy|Molle:400i|Nova+Script|Reem+Kufi");
 .wrapper:after,
 .row:after {
   *zoom: 1; }
@@ -17,13 +17,40 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
+h1 {
+  color: #D1BCE3;
+  font-family: "Reem Kufi", sans-serif;
+  text-align: center; }
+
+h2 {
+  color: #735CDD;
+  font-family: "Nova Script", cursive;
+  text-align: center; }
+
+h3 {
+  color: #ea80e0;
+  font-family: "Cinzel", serif;
+  text-align: center; }
+
+h4 {
+  color: #D664BE;
+  font-family: "Luckiest Guy", cursive;
+  text-align: center;
+  font-size: 5em; }
+
 img {
   width: auto;
   max-width: 100%;
   height: auto !important; }
 
+p {
+  color: #7B9E87;
+  font-family: "Molle", cursive;
+  text-align: center;
+  font-size: 10em; }
+
 span {
-  font-family: 'Reem Kufi', sans-serif; }
+  font-family: "Reem Kufi", sans-serif; }
 
 .one {
   background: #094D92;

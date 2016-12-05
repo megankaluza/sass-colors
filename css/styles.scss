@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Reem+Kufi');
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Luckiest+Guy|Molle:400i|Nova+Script|Reem+Kufi');
 
 @import 'base/index';
 
@@ -8,14 +8,46 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   @include border-box;
 }
 
+h1 {
+  color: $thistle;
+  font-family: $stack-reem;
+  text-align: center;
+}
+
+h2 {
+  color: $slateblue;
+  font-family: $stack-nova;
+  text-align: center;
+}
+
+h3 {
+  color: invert($forestgreen);
+  font-family: $stack-cinzel;
+  text-align: center;
+}
+
+h4 {
+  color: $magenta;
+  font-family: $stack-lucky;
+  text-align: center;
+  font-size: 5em;
+}
+
 img {
   width: auto;
   max-width: 100%;
   height: auto !important;
 }
 
+p {
+  color: $tomb;
+  font-family: $stack-molle;
+  text-align: center;
+  font-size: 10em;
+}
+
 span {
-  font-family: 'Reem Kufi', sans-serif;
+  font-family: $stack-reem;
 }
 
 .one {

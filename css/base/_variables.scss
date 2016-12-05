@@ -7,6 +7,8 @@ $pastelviolet: #C49BBB;
 $thistle: #D1BCE3;
 $majorelleblue: #623CEA;
 $forestgreen: #157F1F;
+$magenta: #D664BE;
+$tomb: #7B9E87;
 
 // Grid Variables
 $grid-columns: 12;
@@ -15,3 +17,11 @@ $grid-max-width: 65em;
 // Breakpoints
 $breakpoint-small: "only screen and (min-width: 20em)";
 $breakpoint-medium: "only screen and (min-width: 30em)";
+
+//Font Stacks
+
+$stack-reem: 'Reem Kufi', sans-serif;
+$stack-nova: 'Nova Script', cursive;
+$stack-cinzel: 'Cinzel', serif;
+$stack-lucky: 'Luckiest Guy', cursive;
+$stack-molle: 'Molle', cursive;
