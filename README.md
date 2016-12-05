@@ -1,6 +1,6 @@
-# _Title_
+# _Sass Colors_
 
-#### _Project Epicodus: Date_
+#### _Epicodus Lesson using SASS Date: 12-5-16_
 
 #### By _**Megan Kaluza**_
 
@@ -8,11 +8,11 @@
 
 ## Description
 
-
+_Use Sass to create an easy-to-modify style guide for colors and typography._
 
 ## Setup/Installation Requirements
 
-* _Clone this repository https://github.com/megankaluza/https://github.com/megankaluza/css-sass-template.git_
+* _Clone this repository https://github.com/megankaluza/https://github.com/megankaluza/sass-colors.git_
 * _gem install sass_
 * _sass --watch ._
 * _Open in browser of your choice_
@@ -30,7 +30,6 @@ _No known bugs at this time_
 * _HTML_
 * _CSS_
 * _SASS_
-* _Bootstrap_
 
 ### License
 
