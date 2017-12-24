@@ -12,7 +12,7 @@ _Use Sass to create an easy-to-modify style guide for colors and typography._
 
 ## Setup/Installation Requirements
 
-* _Clone this repository https://github.com/megankaluza/https://github.com/megankaluza/sass-colors.git_
+* _Clone this repository https://github.com/megankaluza/sass-colors.git_
 * _gem install sass_
 * _sass --watch ._
 * _Open in browser of your choice_
